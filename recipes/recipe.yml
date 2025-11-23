@@ -28,4 +28,9 @@ modules:
         - rustup
         - zsh
         - btrfsmaintenance
+        - clevis
+        - clevis-luks
+        - clevis-dracut
+        - clevis-udisks2
+        - clevis-systemd
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
