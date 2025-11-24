@@ -35,6 +35,7 @@ modules:
         - clevis-udisks2
         - clevis-systemd
         - zoxide
+        - rclone
     group-install:
       with-optional: false
       packages:
